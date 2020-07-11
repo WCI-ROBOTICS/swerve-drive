@@ -8,4 +8,5 @@ The guide for assembly is split into 5 parts:
 * [Assembling the frame](Assembly/3-Frame.md)
 * [Assembling the electronics plates](Assembly/4-Electronics.md)
 * [Putting it all together](Assembly/5-Final-assembly.md)
+
 You can find the files in the folder called Assembly.
