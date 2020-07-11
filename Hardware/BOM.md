@@ -1,7 +1,8 @@
-# <span style="color:red"> IMPORTANT: THIS MAY NOT BE A COMPLETE LIST! </span>
-## <span style="color:red"> This is still a work in progress. </span>
-
 # Bill of materials
+This list is most likley complete, however there is a chance that something is missing.
+## Table of contents:
+* [Understanding the list](#understanding-the-list)
+* [Parts](#parts)
 ## Understanding the list
 ### There are two sections:
 * [Electronics](#electronics)
