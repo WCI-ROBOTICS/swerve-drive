@@ -22,12 +22,15 @@
 Quantity | Part name | Part #/Kit # | Notes
 -|-|-|-
 1 | VEX ARM Cortex | [276-2194](https://www.vexrobotics.com/276-2194.html)
+2 | 2.0 VEXnet Keys | [276-3245](https://www.vexrobotics.com/276-3245.html)
+1 | VEXnet Joystick | [276-2192](https://www.vexrobotics.com/joysticks.html) 
 1 | 7.2V Robot battery NiMH 3000mAh | [276-1491](https://www.vexrobotics.com/batteries-and-chargers.html)
 1 | VEXnet backup battery holder | [276-2243](https://www.vexrobotics.com/276-2243.html)
 6 | 393 2-wire Motors | [276-2177](vexrobotics.com/motors.html)
 6 | Motor controller 29 | [276-2193](https://www.vexrobotics.com/276-2193.html)
 4 | Optical shaft encoder | [276-2156](https://www.vexrobotics.com/276-2156.html)
 1 | 9V Battery | None | Buy at a local store.
+6 | Rechargable AAA Batteries | [276-1696](https://www.vexrobotics.com/batteries-and-chargers.html) | Normal AAA batteries can also be used.
 ### Hardware
 Quantity | Part name | Part #/Kit # | Notes
 -|-|-|-
