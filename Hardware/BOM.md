@@ -54,7 +54,7 @@ Quantity | Part name | Part #/Kit # | Notes
 4 | 4" shafts | None | Only avaliable in the booster kit ([276-2232](https://www.vexrobotics.com/276-2232.html)) now, try cutting from a 12" shaft.
 18 | 3" shafts | [276-2011](https://www.vexrobotics.com/shafts-and-hardware.html) | Comes in a pack with 2" shafts.
 36 | Teflon washers | [275-1025](https://www.vexrobotics.com/shafts-and-hardware.html)
-32 | Metal washers | [275-1024](https://www.vexrobotics.com/shafts-and-hardware.html)
+36 | Metal washers | [275-1024](https://www.vexrobotics.com/shafts-and-hardware.html)
 60 | Shaft collars | [276-2010](https://www.vexrobotics.com/shafts-and-hardware.html)
 4 | Shaft joiners | [276-2177](https://www.vexrobotics.com/motors.html) | Comes with 2-wire motors. Motor Clutches([276-1098](https://www.vexrobotics.com/motors.html), discontinued) can also be used.
 42 | 4.6mm Plastic spacers | [276-2018](https://www.vexrobotics.com/shafts-and-hardware.html)
