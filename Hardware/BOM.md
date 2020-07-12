@@ -54,8 +54,9 @@ Quantity | Part name | Part #/Kit # | Notes
 26 | Flat bushings/bearings | [276-1209](https://www.vexrobotics.com/shafts-and-hardware.html)
 4 | Lock bars | [276-2016](https://www.vexrobotics.com/shafts-and-hardware.html)
 8 | Block bushings/bearings | [276-2016](https://www.vexrobotics.com/shafts-and-hardware.html)
-4 | 4" shafts | None | Only avaliable in the booster kit ([276-2232](https://www.vexrobotics.com/276-2232.html)) now, try cutting from a 12" shaft.
-18 | 3" shafts | [276-2011](https://www.vexrobotics.com/shafts-and-hardware.html) | Comes in a pack with 2" shafts.
+4 | 3/8" Shafts | [276-2177](https://www.vexrobotics.com/motors.html#Kit_Contents) | Comes with motors. Also called motor/clutch post.
+18 | 3" Shafts | [276-2011](https://www.vexrobotics.com/shafts-and-hardware.html) | Comes in a pack with 2" shafts.
+4 | 4" Shafts | None | Only avaliable in the booster kit ([276-2232](https://www.vexrobotics.com/276-2232.html)) now, try cutting from a 12" shaft.
 36 | Teflon washers | [275-1025](https://www.vexrobotics.com/shafts-and-hardware.html)
 36 | Metal washers | [275-1024](https://www.vexrobotics.com/shafts-and-hardware.html)
 60 | Shaft collars | [276-2010](https://www.vexrobotics.com/shafts-and-hardware.html)
