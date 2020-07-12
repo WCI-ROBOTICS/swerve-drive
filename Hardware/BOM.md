@@ -62,8 +62,8 @@ Quantity | Part name | Part #/Kit # | Notes
 4 | Shaft joiners | [276-2177](https://www.vexrobotics.com/motors.html) | Comes with 2-wire motors. Motor Clutches([276-1098](https://www.vexrobotics.com/motors.html), discontinued) can also be used.
 42 | 4.6mm Plastic spacers | [276-2018](https://www.vexrobotics.com/shafts-and-hardware.html)
 8 | 8mm Plastic spacers | [276-2019](https://www.vexrobotics.com/shafts-and-hardware.html)
-136 | 8-32 Locking nuts(keps nuts) | [275-1026](https://www.vexrobotics.com/all-screws.html)
-48 | #8-32 x 1/4" Screws | [275-1002](https://www.vexrobotics.com/all-screws.html)
+132 | 8-32 Locking nuts(keps nuts) | [275-1026](https://www.vexrobotics.com/all-screws.html)
+40 | #8-32 x 1/4" Screws | [275-1002](https://www.vexrobotics.com/all-screws.html)
 8 | #8-32 x 3/8" Screws | [275-1003](https://www.vexrobotics.com/all-screws.html)
 48 | #8-32 x 1/2" Screws | [275-1004](https://www.vexrobotics.com/all-screws.html)
 16 | #8-32 x 3/4" Screws | [275-1006](https://www.vexrobotics.com/all-screws.html)
