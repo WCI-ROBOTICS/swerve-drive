@@ -60,10 +60,10 @@ Quantity | Part name | Part #/Kit # | Notes
 4 | 4" Shafts | None | Only avaliable in the booster kit ([276-2232](https://www.vexrobotics.com/276-2232.html)) now, try cutting from a 12" shaft.
 36 | Teflon washers | [275-1025](https://www.vexrobotics.com/shafts-and-hardware.html)
 36 | Metal washers | [275-1024](https://www.vexrobotics.com/shafts-and-hardware.html)
-60 | Shaft collars | [276-2010](https://www.vexrobotics.com/shafts-and-hardware.html)
+56 | Shaft collars | [276-2010](https://www.vexrobotics.com/shafts-and-hardware.html)
 4 | Shaft joiners | [276-2177](https://www.vexrobotics.com/motors.html) | Comes with 2-wire motors. Motor Clutches([276-1098](https://www.vexrobotics.com/motors.html), discontinued) can also be used.
 42 | 4.6mm Plastic spacers | [276-2018](https://www.vexrobotics.com/shafts-and-hardware.html)
-8 | 8mm Plastic spacers | [276-2019](https://www.vexrobotics.com/shafts-and-hardware.html)
+12 | 8mm Plastic spacers | [276-2019](https://www.vexrobotics.com/shafts-and-hardware.html)
 132 | 8-32 Locking nuts(keps nuts) | [275-1026](https://www.vexrobotics.com/all-screws.html)
 40 | #8-32 x 1/4" Screws | [275-1002](https://www.vexrobotics.com/all-screws.html)
 8 | #8-32 x 3/8" Screws | [275-1003](https://www.vexrobotics.com/all-screws.html)
