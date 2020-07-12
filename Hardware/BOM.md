@@ -35,8 +35,7 @@ Quantity | Part name | Part #/Kit # | Notes
 ### Hardware
 Quantity | Part name | Part #/Kit # | Notes
 -|-|-|-
-2 | 5x25 Steel plates | [275-1140](https://www.vexrobotics.com/plates.html)
-4 | 5x15 Steel plates | [275-2023](https://www.vexrobotics.com/plates.html) | Can be replaced by 5x25 Steel plates([275-1140](https://www.vexrobotics.com/plates.html)).
+4 | 5x25 Steel plates | [275-1140](https://www.vexrobotics.com/plates.html)
 2 | 2x1x25 Steel chasis rails | [275-1145](https://www.vexrobotics.com/rails.html)
 4 | 2x2x15 Steel angles | None | No longer sold, you can cut down 2x2x25 Steel angles ([275-1142](https://www.vexrobotics.com/rails.html)).
 2 | 2x2x25 Steel angles | [275-1142](https://www.vexrobotics.com/angles.html)
@@ -64,8 +63,8 @@ Quantity | Part name | Part #/Kit # | Notes
 42 | 4.6mm Plastic spacers | [276-2018](https://www.vexrobotics.com/shafts-and-hardware.html)
 8 | 8mm Plastic spacers | [276-2019](https://www.vexrobotics.com/shafts-and-hardware.html)
 136 | 8-32 Locking nuts(keps nuts) | [275-1026](https://www.vexrobotics.com/all-screws.html)
-44 | #8-32 x 1/4" Screws | [275-1002](https://www.vexrobotics.com/all-screws.html)
-12 | #8-32 x 3/8" Screws | [275-1003](https://www.vexrobotics.com/all-screws.html)
+48 | #8-32 x 1/4" Screws | [275-1002](https://www.vexrobotics.com/all-screws.html)
+8 | #8-32 x 3/8" Screws | [275-1003](https://www.vexrobotics.com/all-screws.html)
 48 | #8-32 x 1/2" Screws | [275-1004](https://www.vexrobotics.com/all-screws.html)
 16 | #8-32 x 3/4" Screws | [275-1006](https://www.vexrobotics.com/all-screws.html)
 16 | #8-32 x 1-1/2" Screws | [275-1010](https://www.vexrobotics.com/all-screws.html)
