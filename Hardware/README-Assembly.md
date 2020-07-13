@@ -10,3 +10,4 @@ The guide for assembly is split into 5 files:
 * [Putting it all together](Assembly/5-Final-assembly.md)
 
 You can find the files in the folder called Assembly.
+You can find the photos(all 306 of them) in the folder called pictures.
