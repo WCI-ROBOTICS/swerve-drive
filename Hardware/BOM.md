@@ -24,6 +24,7 @@ Quantity | Part name | Part #/Kit # | Notes
 -|-|-|-
 1 | VEX ARM Cortex | [276-2194](https://www.vexrobotics.com/276-2194.html)
 2 | 2.0 VEXnet Keys | [276-3245](https://www.vexrobotics.com/276-3245.html)
+1 | USB A to A cable | [276-1403](https://www.vexrobotics.com/276-1403.html) | Could be black or orange. Also called tether cable.
 1 | VEXnet Joystick | [276-2192](https://www.vexrobotics.com/joysticks.html) 
 1 | 7.2V Robot battery NiMH 3000mAh | [276-1491](https://www.vexrobotics.com/batteries-and-chargers.html)
 1 | VEXnet backup battery holder | [276-2243](https://www.vexrobotics.com/276-2243.html)
