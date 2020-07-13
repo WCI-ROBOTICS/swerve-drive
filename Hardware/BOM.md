@@ -38,9 +38,10 @@ Quantity | Part name | Part #/Kit # | Notes
 -|-|-|-
 4 | 5x25 Steel plates | [275-1140](https://www.vexrobotics.com/plates.html)
 2 | 2x1x25 Steel chasis rails | [275-1145](https://www.vexrobotics.com/rails.html)
+2 | 2x1x16 Steel chasis rails | None | Only avaliable in the metal kit ([276-2126](https://www.vexrobotics.com/276-2161.html)). You can cut down 2x1x25 steel chasis rails ([275-1145](https://www.vexrobotics.com/rails.html))
 4 | 2x2x15 Steel angles | None | No longer sold, you can cut down 2x2x25 Steel angles ([275-1142](https://www.vexrobotics.com/rails.html)).
 2 | 2x2x25 Steel angles | [275-1142](https://www.vexrobotics.com/angles.html)
-4 | 1x15 Aluminum bar | None | These can be from 1x9 to 1x15 (recommended - 1x14). No longer sold, you can cut down 1x25 aluminum bars ([276-2307](https://www.vexrobotics.com/aluminum-kits.html)).
+4 | 1x15 Aluminum bar | None | These can be from 1x9 to 1x15. No longer sold, you can cut down 1x25 aluminum bars ([276-2307](https://www.vexrobotics.com/aluminum-kits.html)).
 4 | Gusset packs | [276-1110](https://www.vexrobotics.com/gussets.html) | You need everything.
 4 | 2.75" wheels | [276-1496](https://www.vexrobotics.com/edr-wheels.html)
 4 | 12T Metal pinions | [276-2251](https://www.vexrobotics.com/gears.html)
@@ -65,9 +66,9 @@ Quantity | Part name | Part #/Kit # | Notes
 4 | Shaft joiners | [276-2177](https://www.vexrobotics.com/motors.html) | Comes with 2-wire motors. Motor Clutches([276-1098](https://www.vexrobotics.com/motors.html), discontinued) can also be used.
 42 | 4.6mm Plastic spacers | [276-2018](https://www.vexrobotics.com/shafts-and-hardware.html)
 12 | 8mm Plastic spacers | [276-2019](https://www.vexrobotics.com/shafts-and-hardware.html)
-132 | 8-32 Locking nuts(keps nuts) | [275-1026](https://www.vexrobotics.com/all-screws.html)
-40 | #8-32 x 1/4" Screws | [275-1002](https://www.vexrobotics.com/all-screws.html)
-8 | #8-32 x 3/8" Screws | [275-1003](https://www.vexrobotics.com/all-screws.html)
+138 | 8-32 Locking nuts(keps nuts) | [275-1026](https://www.vexrobotics.com/all-screws.html)
+44 | #8-32 x 1/4" Screws | [275-1002](https://www.vexrobotics.com/all-screws.html)
+14 | #8-32 x 3/8" Screws | [275-1003](https://www.vexrobotics.com/all-screws.html)
 48 | #8-32 x 1/2" Screws | [275-1004](https://www.vexrobotics.com/all-screws.html)
 16 | #8-32 x 3/4" Screws | [275-1006](https://www.vexrobotics.com/all-screws.html)
 16 | #8-32 x 1-1/2" Screws | [275-1010](https://www.vexrobotics.com/all-screws.html)
